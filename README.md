@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Leonardo!
+# 👋 Hi, I'm Leonardo!
 I'm a Software Developer from Argentina 🇦🇷, specializing in backend development with .NET. I enjoy solving complex problems and building scalable applications.
 
 ## 🚀 About Me
