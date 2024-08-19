@@ -1,7 +1,6 @@
 ### 👋 Hi, there
 
 - 💡 I'm currently learning with help from [learn.microsoft.com/dotnet](https://learn.microsoft.com/en-us/dotnet/)
-- 👀 I'm interested in javascript.
 - 🌱 Life long learning.
 
 #### Certificates
