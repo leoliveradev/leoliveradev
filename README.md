@@ -29,7 +29,7 @@ I'm currently working on simulation projects with multidisciplinary teams at No-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=olezdev&theme=dark&hide_border=false" alt="olezdev" /></p>
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=nord)
  
 <!---
 olezdev/olezdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
