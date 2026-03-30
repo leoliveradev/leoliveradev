@@ -24,9 +24,7 @@ I'm currently working on simulation projects with multidisciplinary teams at No-
 - 🕋 [Back-end Development and APIs](https://freecodecamp.org/certification/olezdev/back-end-development-and-apis)
 
 ## 📊 GitHub Stats:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olezdev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="olezdev" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=olezdev&theme=dark&hide_border=false" alt="olezdev" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leoliveradev&theme=dark&hide_border=false" alt="leoliveradev" /></p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=nord)
