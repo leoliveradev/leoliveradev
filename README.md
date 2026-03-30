@@ -7,13 +7,15 @@ I'm a Software Developer from Argentina 🇦🇷, specializing in backend develo
 
 🤝 I’ve worked on simulation projects with multidisciplinary teams at No Country, where I contributed to the development of scalable web applications using modern development practices.
 
+📌 Currently open to new opportunities — feel free to connect or reach out!
+
 ## 🧠 Experience Highlights
 
-- 🧩 Worked in agile teams simulating real work environments (No Country)
-- ⚙️ Built RESTful APIs with ASP.NET Core
-- 🏗️ Applied Clean Architecture principles
-- 🔐 Implemented authentication & authorization with JWT
-- 🗄️ Designed and managed relational and non-relational databases
+- 🧩 Collaborated in agile teams simulating real-world development environments (No Country)
+- ⚙️ Designed and developed RESTful APIs with ASP.NET Core
+- 🏗️ Applied Clean Architecture to improve scalability and maintainability
+- 🔐 Implemented secure authentication & authorization using JWT
+- 🗄️ Worked with SQL and NoSQL databases
 
 ## 🎓 Certificates
 - 🏃 [Aceleración Alkemy C# Backend](https://assets.alkemy.org/certificates/auth0%7C62c475a870a3683402504371/ACCELERATION_CERTIFICATE/fabf5fc1-d136-4b36-a01d-6a84ae84e25d.pdf)
@@ -27,3 +29,5 @@ I'm a Software Developer from Argentina 🇦🇷, specializing in backend develo
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=nord)
+
+---
