@@ -44,11 +44,11 @@ Web application for managing patient medical records with secure and centralized
 👉 https://github.com/No-Country-simulation/h1-02-csharp-react
 
 ## 🎓 Certificates
-- 🏃 [Aceleración Alkemy C# Backend](https://assets.alkemy.org/certificates/auth0%7C62c475a870a3683402504371/ACCELERATION_CERTIFICATE/fabf5fc1-d136-4b36-a01d-6a84ae84e25d.pdf)
-- 🌐 [Foundational C# with Microsoft](https://www.freecodecamp.org/certification/olezdev/foundational-c-sharp-with-microsoft)
-- 🟡 [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/olezdev/javascript-algorithms-and-data-structures)
-- 🎨 [Responsive Web Design](https://www.freecodecamp.org/certification/olezdev/responsive-web-design)
-- 🕋 [Back-end Development and APIs](https://freecodecamp.org/certification/olezdev/back-end-development-and-apis)
+- [Aceleración Alkemy C# Backend](https://assets.alkemy.org/certificates/auth0%7C62c475a870a3683402504371/ACCELERATION_CERTIFICATE/fabf5fc1-d136-4b36-a01d-6a84ae84e25d.pdf)
+- [Foundational C# with Microsoft](https://www.freecodecamp.org/certification/olezdev/foundational-c-sharp-with-microsoft)
+- [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/olezdev/javascript-algorithms-and-data-structures)
+- [Responsive Web Design](https://www.freecodecamp.org/certification/olezdev/responsive-web-design)
+- [Back-end Development and APIs](https://freecodecamp.org/certification/olezdev/back-end-development-and-apis)
 
 ## 📊 GitHub Stats:
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leoliveradev&theme=dark&hide_border=false" alt="leoliveradev" /></p>
